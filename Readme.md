@@ -9,7 +9,7 @@
 
 Imagen:
 ![imagen](imagen/diagrama.png) (en local)
-https://drive.google.com/file/d/1jt4Pjo9KrJBeM0Vi77U0fdDLIeTLWLIZ/view?usp=drive_link (link diagrama)
+![imagen](https://drive.google.com/file/d/1jt4Pjo9KrJBeM0Vi77U0fdDLIeTLWLIZ/view?usp=drive_link) (link diagrama)
 
 Tablero:
 
