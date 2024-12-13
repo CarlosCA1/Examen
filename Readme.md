@@ -2,6 +2,7 @@
 
 ---
 
+
 * 
 * 
 
@@ -34,12 +35,20 @@ Funciones que se podrían emplear y javadoc:
 * Recorre el tablero y verifica si la casilla está ocupada.
 * @param tablero [][] Recoge el tablero.
 **/
-public static void recorrerTablero (int tablero [][]) {
+public static void recorrerTablero (String tablero [][]) {
 }
 
 /**
-* Cuenta las fichas de cada jugador e imprime quién va ganando.
+* Cuenta las fichas de cada jugador.
 * @param tablero [][] Recoge el tablero.
 **/
-public static void contarFichas (int tablero[][]){
+public static void contarFichas (String tablero[][]){
+}
+
+/**
+* Indica quién va ganando
+* @param numBlancas
+* @param numNegras
+**/
+public static void mostrarGanador (int numBlancas, int numNegras){
 }
