@@ -2,18 +2,12 @@
 
 ---
 
-
-* 
-* 
-
-
-
+* Creamos un tablero y usamos un "for" para recorrerlo.
+* Con un "if" verificamos si la casilla está ocupada.
+* Con un "for" recorremos el tablero y mediante un contador contamos el número de cada tipo de ficha.
+* Con un "if" comprobamos quién gana, dependiendo del número de las mismas.
 
 ![imagen](imagen/diagrama.png)
-
-
-
-
 
 Tablero:
 
