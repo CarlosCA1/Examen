@@ -8,7 +8,7 @@
 
 
 
-
+![imagen](imagen/diagrama.png)
 
 
 
