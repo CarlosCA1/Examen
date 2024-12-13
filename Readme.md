@@ -7,7 +7,9 @@
 * Con un "for" recorremos el tablero y mediante un contador contamos el número de cada tipo de ficha.
 * Con un "if" comprobamos quién gana, dependiendo del número de las mismas.
 
+Imagen:
 ![imagen](imagen/diagrama.png)
+https://drive.google.com/file/d/1jt4Pjo9KrJBeM0Vi77U0fdDLIeTLWLIZ/view?usp=drive_link
 
 Tablero:
 
